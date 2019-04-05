@@ -4,7 +4,7 @@ import { RecipesComponent } from './recipes.component';
 import { RecipeStartComponent } from './recipe-start/recipe-start.component';
 import { RecipeEditComponent } from './recipe-edit/recipe-edit.component';
 import { RecipeDetailsComponent } from './recipe-details/recipe-details.component';
-import { AuthGuard } from '../auth/auth/guard.service';
+import { AuthGuard } from '../auth/guard.service';
 
 const recipesRoutes: Routes = [
     { path: 'recipes', component: RecipesComponent, children: [
