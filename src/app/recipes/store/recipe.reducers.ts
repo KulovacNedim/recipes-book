@@ -1,8 +1,9 @@
 import { Recipe } from '../recipes.model';
 import { Ingredient } from 'src/app/shared/ingredient.model';
 import * as RecipeAction from './recipe.actions';
+import * as fromApp from '../../store/app.reducers';
 
-export interface FeatureState {
+export interface FeatureState extends fromApp.AppState {
     recipes: State;
 }
 
