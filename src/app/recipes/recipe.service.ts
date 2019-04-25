@@ -1,4 +1,4 @@
-import { Recipe } from './recipe-list/recipes.model';
+import { Recipe } from './recipes.model';
 import { Ingredient } from '../shared/ingredient.model';
 import { Subject } from 'rxjs';
 
