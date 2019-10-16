@@ -1,4 +1,4 @@
-## [Recipes Book (click to see demo)](https://react-burger-app-ff8c2.firebaseapp.com/)
+## [Recipes Book (click to see demo)](https://ng-recipe-book-b01a5.firebaseapp.com/)
 
 [Angular 8 - The Complete Guide (2019+ Edition) | Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
