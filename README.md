@@ -1,27 +1,33 @@
-# RecipesBook
+## [Recipes Book (click to see demo)](https://react-burger-app-ff8c2.firebaseapp.com/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+[Angular 8 - The Complete Guide (2019+ Edition) | Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Development server
+<img src="recipe-book.png" title="recipe-book" alt="recipe-book.png">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## DEMO
+[Click to see application in action](https://ng-recipe-book-b01a5.firebaseapp.com/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tags
 
-## Build
+- [v1.0](https://github.com/KulovacNedim/recipes-book/tree/v1.0) - Full (basic) application
+- [v2.0](https://github.com/KulovacNedim/recipes-book/tree/v2.0) - Version with ngrx for state management
+- [v3.0](https://github.com/KulovacNedim/recipes-book/tree/v3.0) - Angular Universal rendering implemented
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Clone
 
-## Running unit tests
+Clone this repo to your local machine using `https://github.com/KulovacNedim/recipes-book.git`
+and run `npm init` to install all dependencies
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Available Scripts
 
-## Running end-to-end tests
+In the project directory, you can run:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### `npm start`
 
-## Further help
+Runs the app in the development mode.
+Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br>
